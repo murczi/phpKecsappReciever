@@ -1,6 +1,6 @@
 {
   "require": {
-    "vlucas/phpdotenv": "^v5.5.0",
+    "vlucas/phpdotenv": "*",
     "ext-openssl": "*"
   }
 }
